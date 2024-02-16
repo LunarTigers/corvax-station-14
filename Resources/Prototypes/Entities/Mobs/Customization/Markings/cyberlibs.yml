@@ -497,7 +497,7 @@
   id: CyberlimbTorsoMorpheus
   bodyPart: Chest
   markingCategory: Chest
-  speciesRestriction: [ Human, Dwarf, Arachnid ]+
+  speciesRestriction: [ Human, Dwarf, Arachnid ]
   coloring:
     default:
       type:
